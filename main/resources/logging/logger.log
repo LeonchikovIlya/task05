@@ -1,0 +1,122 @@
+2019-04-01 13:19:55 INFO  root:39 - Parking was created
+2019-04-01 13:19:56 INFO  root:59 - Car OPEL1 got place #1.
+2019-04-01 13:19:56 INFO  root:59 - Car TOYOTA2 got place #2.
+2019-04-01 13:19:56 INFO  root:59 - Car FORD3 got place #3.
+2019-04-01 13:19:56 INFO  root:59 - Car MERCEDES4 got place #4.
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY24 go away to another parking after waiting for : 5ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD73 go away to another parking after waiting for : 5ms
+2019-04-01 13:19:56 INFO  root:63 - Car BMW15 go away to another parking after waiting for : 27ms
+2019-04-01 13:19:56 INFO  root:63 - Car TOYOTA5 go away to another parking after waiting for : 31ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES41 go away to another parking after waiting for : 22ms
+2019-04-01 13:19:56 DEBUG root:42 - Park lot #4 is using for 35 ms
+2019-04-01 13:19:56 INFO  root:68 - Car MERCEDES4 after parking for : 35 ms. Leave lot #4
+2019-04-01 13:19:56 INFO  root:59 - Car TOYOTA6 got place #4.
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY26 go away to another parking after waiting for : 66ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD69 go away to another parking after waiting for : 47ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES44 go away to another parking after waiting for : 61ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES36 go away to another parking after waiting for : 66ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD51 go away to another parking after waiting for : 59ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD97 go away to another parking after waiting for : 30ms
+2019-04-01 13:19:56 INFO  root:63 - Car BMW66 go away to another parking after waiting for : 61ms
+2019-04-01 13:19:56 INFO  root:63 - Car TOYOTA62 go away to another parking after waiting for : 82ms
+2019-04-01 13:19:56 INFO  root:63 - Car BMW22 go away to another parking after waiting for : 119ms
+2019-04-01 13:19:56 INFO  root:63 - Car TOYOTA95 go away to another parking after waiting for : 82ms
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY61 go away to another parking after waiting for : 106ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD52 go away to another parking after waiting for : 111ms
+2019-04-01 13:19:56 INFO  root:63 - Car BMW31 go away to another parking after waiting for : 130ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD13 go away to another parking after waiting for : 140ms
+2019-04-01 13:19:56 DEBUG root:42 - Park lot #3 is using for 155 ms
+2019-04-01 13:19:56 INFO  root:68 - Car FORD3 after parking for : 155 ms. Leave lot #3
+2019-04-01 13:19:56 INFO  root:59 - Car FORD7 got place #3.
+2019-04-01 13:19:56 INFO  root:63 - Car TOYOTA45 go away to another parking after waiting for : 178ms
+2019-04-01 13:19:56 INFO  root:63 - Car OPEL55 go away to another parking after waiting for : 175ms
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY17 go away to another parking after waiting for : 215ms
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY90 go away to another parking after waiting for : 170ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD85 go away to another parking after waiting for : 246ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD37 go away to another parking after waiting for : 269ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD78 go away to another parking after waiting for : 265ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD34 go away to another parking after waiting for : 293ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES79 go away to another parking after waiting for : 287ms
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY58 go away to another parking after waiting for : 294ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES68 go away to another parking after waiting for : 305ms
+2019-04-01 13:19:56 INFO  root:63 - Car BMW75 go away to another parking after waiting for : 309ms
+2019-04-01 13:19:56 DEBUG root:42 - Park lot #4 is using for 294 ms
+2019-04-01 13:19:56 INFO  root:68 - Car TOYOTA6 after parking for : 294 ms. Leave lot #4
+2019-04-01 13:19:56 INFO  root:59 - Car FORD8 got place #4.
+2019-04-01 13:19:56 INFO  root:63 - Car BMW94 go away to another parking after waiting for : 295ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD67 go away to another parking after waiting for : 322ms
+2019-04-01 13:19:56 INFO  root:63 - Car BMW27 go away to another parking after waiting for : 341ms
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY47 go away to another parking after waiting for : 363ms
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY11 go away to another parking after waiting for : 385ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD21 go away to another parking after waiting for : 384ms
+2019-04-01 13:19:56 INFO  root:63 - Car OPEL50 go away to another parking after waiting for : 377ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD71 go away to another parking after waiting for : 378ms
+2019-04-01 13:19:56 INFO  root:63 - Car BMW25 go away to another parking after waiting for : 398ms
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY18 go away to another parking after waiting for : 428ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES72 go away to another parking after waiting for : 450ms
+2019-04-01 13:19:56 DEBUG root:42 - Park lot #2 is using for 483 ms
+2019-04-01 13:19:56 INFO  root:68 - Car TOYOTA2 after parking for : 483 ms. Leave lot #2
+2019-04-01 13:19:56 INFO  root:59 - Car TOYOTA9 got place #2.
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY98 go away to another parking after waiting for : 447ms
+2019-04-01 13:19:56 INFO  root:63 - Car OPEL92 go away to another parking after waiting for : 474ms
+2019-04-01 13:19:56 INFO  root:63 - Car BMW70 go away to another parking after waiting for : 492ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES89 go away to another parking after waiting for : 496ms
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY91 go away to another parking after waiting for : 502ms
+2019-04-01 13:19:56 INFO  root:63 - Car OPEL65 go away to another parking after waiting for : 523ms
+2019-04-01 13:19:56 INFO  root:63 - Car BMW16 go away to another parking after waiting for : 546ms
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY83 go away to another parking after waiting for : 532ms
+2019-04-01 13:19:56 INFO  root:63 - Car OPEL88 go away to another parking after waiting for : 537ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES80 go away to another parking after waiting for : 544ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES30 go away to another parking after waiting for : 567ms
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY49 go away to another parking after waiting for : 579ms
+2019-04-01 13:19:56 INFO  root:63 - Car TOYOTA38 go away to another parking after waiting for : 587ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD76 go away to another parking after waiting for : 585ms
+2019-04-01 13:19:56 INFO  root:63 - Car BMW39 go away to another parking after waiting for : 629ms
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY14 go away to another parking after waiting for : 643ms
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY54 go away to another parking after waiting for : 661ms
+2019-04-01 13:19:56 INFO  root:63 - Car OPEL63 go away to another parking after waiting for : 662ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES87 go away to another parking after waiting for : 673ms
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY28 go away to another parking after waiting for : 698ms
+2019-04-01 13:19:56 INFO  root:63 - Car OPEL29 go away to another parking after waiting for : 701ms
+2019-04-01 13:19:56 INFO  root:63 - Car OPEL40 go away to another parking after waiting for : 714ms
+2019-04-01 13:19:56 INFO  root:63 - Car OPEL57 go away to another parking after waiting for : 709ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD23 go away to another parking after waiting for : 748ms
+2019-04-01 13:19:56 INFO  root:63 - Car TOYOTA20 go away to another parking after waiting for : 767ms
+2019-04-01 13:19:56 INFO  root:63 - Car BMW10 go away to another parking after waiting for : 785ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES33 go away to another parking after waiting for : 783ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES77 go away to another parking after waiting for : 785ms
+2019-04-01 13:19:56 INFO  root:63 - Car OPEL53 go away to another parking after waiting for : 796ms
+2019-04-01 13:19:56 INFO  root:63 - Car TOYOTA42 go away to another parking after waiting for : 826ms
+2019-04-01 13:19:56 INFO  root:63 - Car BMW84 go away to another parking after waiting for : 814ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES86 go away to another parking after waiting for : 817ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES59 go away to another parking after waiting for : 830ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES12 go away to another parking after waiting for : 856ms
+2019-04-01 13:19:56 INFO  root:63 - Car TOYOTA93 go away to another parking after waiting for : 826ms
+2019-04-01 13:19:56 DEBUG root:42 - Park lot #1 is using for 879 ms
+2019-04-01 13:19:56 INFO  root:68 - Car OPEL1 after parking for : 879 ms. Leave lot #1
+2019-04-01 13:19:56 INFO  root:59 - Car TOYOTA19 got place #1.
+2019-04-01 13:19:56 INFO  root:63 - Car TOYOTA43 go away to another parking after waiting for : 865ms
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY96 go away to another parking after waiting for : 840ms
+2019-04-01 13:19:56 INFO  root:63 - Car OPEL46 go away to another parking after waiting for : 874ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES82 go away to another parking after waiting for : 865ms
+2019-04-01 13:19:56 INFO  root:63 - Car TOYOTA81 go away to another parking after waiting for : 872ms
+2019-04-01 13:19:56 INFO  root:63 - Car OPEL32 go away to another parking after waiting for : 897ms
+2019-04-01 13:19:56 DEBUG root:42 - Park lot #3 is using for 761 ms
+2019-04-01 13:19:56 INFO  root:63 - Car MERCEDES48 go away to another parking after waiting for : 896ms
+2019-04-01 13:19:56 INFO  root:68 - Car FORD7 after parking for : 761 ms. Leave lot #3
+2019-04-01 13:19:56 INFO  root:59 - Car MERCEDES35 got place #3.
+2019-04-01 13:19:56 INFO  root:63 - Car JEELY74 go away to another parking after waiting for : 890ms
+2019-04-01 13:19:56 INFO  root:63 - Car BMW60 go away to another parking after waiting for : 895ms
+2019-04-01 13:19:56 INFO  root:63 - Car FORD64 go away to another parking after waiting for : 897ms
+2019-04-01 13:19:56 INFO  root:63 - Car TOYOTA99 go away to another parking after waiting for : 905ms
+2019-04-01 13:19:57 DEBUG root:42 - Park lot #4 is using for 620 ms
+2019-04-01 13:19:57 INFO  root:68 - Car FORD8 after parking for : 620 ms. Leave lot #4
+2019-04-01 13:19:57 INFO  root:59 - Car TOYOTA56 got place #4.
+2019-04-01 13:19:57 DEBUG root:42 - Park lot #2 is using for 760 ms
+2019-04-01 13:19:57 INFO  root:68 - Car TOYOTA9 after parking for : 760 ms. Leave lot #2
+2019-04-01 13:19:57 DEBUG root:42 - Park lot #1 is using for 709 ms
+2019-04-01 13:19:57 INFO  root:68 - Car TOYOTA19 after parking for : 709 ms. Leave lot #1
+2019-04-01 13:19:57 DEBUG root:42 - Park lot #3 is using for 826 ms
+2019-04-01 13:19:57 INFO  root:68 - Car MERCEDES35 after parking for : 826 ms. Leave lot #3
+2019-04-01 13:19:57 DEBUG root:42 - Park lot #4 is using for 834 ms
+2019-04-01 13:19:57 INFO  root:68 - Car TOYOTA56 after parking for : 834 ms. Leave lot #4
